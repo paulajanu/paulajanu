@@ -2,7 +2,7 @@
 
 ##
 
-- 💻 Estudante da 9ª turma da [Laboratória](https://www.laboratoria.la/br)
+- 💻 Estudante de Desenvolvimento Web da 9ª turma da [Laboratória](https://www.laboratoria.la/br)
 - 📲 Você pode me encontrar em:
 
 <div > 
