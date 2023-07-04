@@ -2,7 +2,7 @@
 
 ##
 
-- 💻 Desenvolvedora Web Jr. pela [Laboratória](https://www.laboratoria.la/br)
+- 💻 Desenvolvedora Web Front-End pela [Laboratória](https://www.laboratoria.la/br)
 - 📲 Você pode me encontrar em:
 
 <div > 
